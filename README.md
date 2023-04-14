@@ -6,7 +6,13 @@
 
 ## STACK
 
-![descarga (2)](https://user-images.githubusercontent.com/116892725/228667575-ed56b13a-6843-4972-84bc-be41b71c2cf5.png)![descarga (3)](https://user-images.githubusercontent.com/116892725/228667926-ae281b93-73a4-4485-8166-3909c3d766b5.png)![descarga (5)](https://user-images.githubusercontent.com/116892725/228667679-382406fb-4474-492c-8c9d-57e67ed55401.png)
-![descarga (7)](https://user-images.githubusercontent.com/116892725/228668402-57b53d69-acd2-44f8-b98f-0773e0ae6f46.png)!
 
 
+![html5](https://user-images.githubusercontent.com/116892725/232108663-ce6d6b6a-a090-4b28-98ee-77b12b4ea7a8.svg)
+![icons](https://user-images.githubusercontent.com/116892725/232108654-0aaa5cc4-7314-4d6f-abcb-0302fcfe7c82.svg)
+![sass](https://user-images.githubusercontent.com/116892725/232108630-1dcf9e50-077e-437b-8b48-dae1d10b7a63.svg)
+![vitest](https://user-images.githubusercontent.com/116892725/232108639-bb0988eb-7f67-426d-858e-fd36bee8b567.svg)
+![js](https://user-images.githubusercontent.com/116892725/232108641-8571bc5f-3458-4563-bf45-318772744d8c.svg)
+![vue](https://user-images.githubusercontent.com/116892725/232108644-2d1615ab-18c0-42f3-b2df-8e4687f2abcb.svg)
+![java](https://user-images.githubusercontent.com/116892725/232108658-30a5e3f1-83ca-4e80-b505-0cc7a7949716.svg)
+![spring](https://user-images.githubusercontent.com/116892725/232108667-9cb012b2-2e1d-4181-be9b-168f69fa2f95.svg)
